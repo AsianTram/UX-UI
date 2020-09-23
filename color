@@ -1,0 +1,26 @@
+- Color Harmony (color theory):
+  - Monochromatic: use one color in the color wheel with different saturation and brightness
+  - Analogous: use colors that are next to each other
+  - Complimentary: use colors that are opposite to each other in the wheel
+  - Split Complimentary: use the colors that are on either side of it Complimentary one (the ones next to the oposite one)
+  - Triadic: use three colors that are evenly spaced
+
+- Guidelines for choosing UI color palette:
+  - Harmony: colors should work well together using the principles of color theory
+  - Scaleable and Addictive: should have multiple shades of gray and low saturated colors. Could have a systematic pattern which can be added to as the needs of the design system grows
+  - Tint your colors with your brands: Tint your grays and black with a hint of your brand color
+  - Accessible: must have 4,5:1 color constrast ratio
+
+- How to create a palette from 1 main color:
+  - Choose your base color
+  - Choose swatches near your base color: these colors will support hover, active and focus states for the base color
+  - Choose your darkest color and greys: these swatches are most often used as accents, background colors.
+
+- 60:30:10 rule:
+  - 60% of the content used primary color
+  - 30% used secondary color
+  - 10% for the rest
+
+- Resources:
+  - https://www.youtube.com/watch?v=eXcKOqviLE0
+  - https://www.youtube.com/watch?v=wuZuvhF4u6U
